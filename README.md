@@ -42,7 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![catfile1](./img/cat-file1.png)
+<img width="687" height="320" alt="cat-file1" src="https://github.com/user-attachments/assets/f4ae41b8-3168-497a-a320-e718cbde1110" />
 
 
 cat < file2
